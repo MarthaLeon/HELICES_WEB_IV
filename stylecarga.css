@@ -1,0 +1,27 @@
+header{
+    background-color: rgb(1, 1, 40);
+}
+
+.d-item{
+    height: 280px;
+}
+   
+.d-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+.intro{
+    text-align: justify;
+   }
+
+.contacto{
+    text-align:center;
+    color: white;
+    background-color: rgb(1, 1, 40);
+}
+
+.cargo{
+    margin-left: 70px;
+}
